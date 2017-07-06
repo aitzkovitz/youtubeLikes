@@ -1,6 +1,4 @@
-// TBI: make fractional bar to represent likes and dislikes
-// TBI: add to github
-// TBI: fix playlist bug
+
 
 document.addEventListener("spfdone", process);
 document.addEventListener("DOMContentLoaded", process);
